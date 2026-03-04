@@ -1,3 +1,1 @@
-Das ist Zeile 1
-Das ist die GEANDERTE zeile von repo 1
-Das ist Zeile 3
+Diese zeile ist von konfig geändert
