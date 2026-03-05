@@ -1,2 +1,3 @@
 Logging fkt für v1.1.0
 schreib logs in datei
+log level können irgendwas
